@@ -1,0 +1,25 @@
+#box{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin: 20px;
+}
+button{
+    margin: 20px;
+    padding: 20px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    border: 0px;
+}
+#box2{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    margin: 20px;
+}
+#box3 {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(138, 138, 158);
+    margin: 20px;
+}
